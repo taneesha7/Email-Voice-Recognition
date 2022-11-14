@@ -5,8 +5,8 @@ import os
 from playsound import playsound
 recognizer=sr.Recognizer()
 dict={'attherate':'@','underscore':'_','dot':'.','comma':',','hyphen':'-'}
-fromaddr = 'jp230601@gmail.com'
-password= 'dnjvpathak'
+fromaddr = 'taneesha1109@gmail.com'
+password= '1243tjk'
 username=fromaddr
 address = "Please Enter receiver's mail address"
 language = 'en'
